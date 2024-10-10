@@ -1,4 +1,5 @@
 -- Assurez-vous que la table 'products' existe déjà
+-- Changement test
 -- Si la table 'products' n'existe pas, vous pouvez la créer comme suit :
 /*
 CREATE TABLE products (
